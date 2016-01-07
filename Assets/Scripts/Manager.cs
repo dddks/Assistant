@@ -2,8 +2,7 @@
 using System.Collections;
 
 public class Manager : MonoBehaviour {
-
-	public int setcount = 0;
+	
 	public static Manager instance = null;
 
 
@@ -12,9 +11,5 @@ public class Manager : MonoBehaviour {
 		instance = this;
 	}
 
-	public void SetCount()
-	{
-		setcount++;
-		Debug.Log (setcount.ToString ());
-	}
+
 }

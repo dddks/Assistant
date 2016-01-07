@@ -9,3 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/Assistant_count.unity
   - enabled: 1
     path: Assets/Scenes/Assistant_main.unity
+  - enabled: 1
+    path: Assets/Scenes/Assistant_Month.unity
+  - enabled: 1
+    path: Assets/Scenes/Assistant_setting.unity
